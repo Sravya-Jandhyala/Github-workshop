@@ -2,6 +2,7 @@
 void main()
 {
 	int i=0;
+	pritf("Learn numbers with us");
 	printf("The whole numbers upto 15 are:");
 	for(i=0;i<16;i++)
 	{
