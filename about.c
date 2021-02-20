@@ -7,4 +7,5 @@ void main()
 	{
 		printf(i);
 	}
+	printf("The numbers are printed.Thakyou.");
 }
